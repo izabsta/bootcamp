@@ -5,4 +5,5 @@ The repository 'bootcamp' collects a selection of exercises completed on live-co
 - basic Python exercises (data types, functions, exceptions, modules)
 - Python OOP exercises (objects, classes, inheritance, iterations)
 - SQL exercises
-- DS Python modules
+- NumPy exercises
+- Pandas exercises
