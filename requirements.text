@@ -1,0 +1,11 @@
+jupyter
+numpy>=1.2
+pandas
+seaborn
+requests
+beautifulsoup4
+matplotlib
+sklearn
+plotly
+statsmodels
+dash
